@@ -1,0 +1,2 @@
+class Ato2{
+}
